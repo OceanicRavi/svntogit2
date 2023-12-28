@@ -1,1 +1,2 @@
 foo1 new msg by user1
+today
